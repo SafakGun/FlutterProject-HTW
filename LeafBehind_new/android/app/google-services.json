@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707639017879",
+    "project_id": "leafbehindfr",
+    "storage_bucket": "leafbehindfr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707639017879:android:7e7f04d21cb661706484d2",
+        "android_client_info": {
+          "package_name": "com.example.leafbehind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707639017879-crn3ub1fn0o70jtoqp9cnqerb09i80n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2kKKaVG2VzC80H6EKvWBIMSsUlIT3gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707639017879-crn3ub1fn0o70jtoqp9cnqerb09i80n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

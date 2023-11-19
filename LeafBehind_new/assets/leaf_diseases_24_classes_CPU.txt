@@ -1,0 +1,24 @@
+Tomato Bacterial Spot
+Tomato Early Blight
+Tomato Late Blight
+Tomato Leaf Mold
+Tomato Septoria Leaf Spot
+Tomato Target Spot
+Tomato Yellow Leaf Curl Virus
+Tomato Mosaic Virus
+Tomato Two Spotted Spider Mite
+Tomato Healthy
+Corn Blight
+Corn Common Rust
+Corn Healthy
+Grape Black Rot
+Grape Esca (Black Measles)
+Grape Healthy
+Grape Leaf Blight (Isariopsis Leaf Spot)
+Peach Bacterial Spot
+Peach Healthy
+Pepper Bacterial Spot
+Pepper Healthy
+Potato Early Blight
+Potato Healthy
+Potato Late Blight
