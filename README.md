@@ -56,3 +56,8 @@ Leaf Behind is a comprehensive project aimed at leaf image detection and disease
 - User login information is securely stored in Firebase Authentication.
 - Uploaded images are stored in Firebase Storage for easy retrieval.
 - User history information is stored in Cloud Firestore for efficient tracking and management.
+
+## Contributors
+- Şafak Gün
+- Ali Yiğit Taş
+- Mehmet Kuzucu
