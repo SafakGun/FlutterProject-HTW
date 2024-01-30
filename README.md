@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SafakGun/ARProject-HTW/assets/99952412/44b61a24-a620-41a1-a305-fb4425c79f36" alt="playstore" width="200" height="200">
+</p>
+
 # Leaf Behind
 
 Leaf Behind is a comprehensive project aimed at leaf image detection and disease classification using Python and Dart. This repository contains implementations for image detection of leaves versus anything, as well as the detection of diseases in leaves. Additionally, it includes a mobile application built with Dart for easy access and usage.
