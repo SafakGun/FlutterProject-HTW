@@ -8,6 +8,13 @@ Leaf Behind is a comprehensive project aimed at leaf image detection and disease
 
 ## Features
 
+<p align="center">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/a6d160a5-cf4b-422f-a604-4b363cd041c0 "alt="playstore" width="200" height="200">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/dc8a8800-2417-4f80-8a8e-9e7c24ecbaf1 "alt="playstore" width="200" height="200">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/4e9cc72b-3dbb-4e3f-b3e2-c8fd6e4840a0 "alt="playstore" width="200" height="200">
+</p>
+
+
 ### Image Detection of Leaves vs Anything (Python)
 
 - **Data Collection**: Gathered 6584 images for the "Anything" dataset from Google images and a Kaggle Dataset.
