@@ -9,13 +9,12 @@ Leaf Behind is a comprehensive project aimed at leaf image detection and disease
 ## Features
 
 <p align="center">
-  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/a6d160a5-cf4b-422f-a604-4b363cd041c0 "alt="playstore" width="400" height="800">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/a6d160a5-cf4b-422f-a604-4b363cd041c0 "alt="playstore" width="300" height="600">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/dc8a8800-2417-4f80-8a8e-9e7c24ecbaf1 "alt="playstore" width="400" height="800">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/dc8a8800-2417-4f80-8a8e-9e7c24ecbaf1 "alt="playstore" width="300" height="600">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/4e9cc72b-3dbb-4e3f-b3e2-c8fd6e4840a0 "alt="playstore" width="400" height="800">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/4e9cc72b-3dbb-4e3f-b3e2-c8fd6e4840a0 "alt="playstore" width="300" height="600">
 </p>
-
 
 ### Image Detection of Leaves vs Anything (Python)
 
@@ -43,6 +42,14 @@ Leaf Behind is a comprehensive project aimed at leaf image detection and disease
   - 22,425 images for testing
 - Achieved a model accuracy of 62% after 25 epochs of training.
 - Attained an evaluation accuracy of 78% when tested against the validation dataset.
+
+<p align="center">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/62f7466c-6230-45a1-80ce-e745fbf69e8c"alt="playstore" width="800" height="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/fb27844f-432e-4b58-a499-ddc96693d629 "alt="playstore" width="1000" height="200">
+</p>
 
 ## Database
 
