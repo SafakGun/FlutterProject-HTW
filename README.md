@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/44429b8e-9cb3-44bc-9740-898a7b6199b5
-"alt="playstore" width="200" height="200">
+  <img src="https://github.com/SafakGun/FlutterProject-HTW/assets/99952412/7bdec772-00ec-4e40-925d-5140dd921191"alt="playstore" width="200" height="200">
 </p>
 
 # Leaf Behind
